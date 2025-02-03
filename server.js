@@ -1,5 +1,5 @@
 const { Telegraf } = require('telegraf')
-const bot = new Telegraf(process.env.BOT_TOKEN)
+const bot = new Telegraf(process.env.BOT_7868460629:AAELGOAy9sWY1XYLnuC1LVbNjYIVKHl3JFk)
 const fs = require('fs')
 
 let users = {}
